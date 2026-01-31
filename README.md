@@ -96,7 +96,7 @@ Attrition by salary slab and years at company
 Interactive filters for deep analysis
 
 ## Dashboard
-![Dashboard Screenshot](https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG)
+![Dashboard Screenshot](https://github.com/pooja4511patil/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dashboard.PNG)
 
 
 ▶️ How to Run This Project:-

@@ -21,7 +21,7 @@ Source: HR Analytics Dataset
 
 Format: CSV file
 
-Records: ~1,480 employees
+Records: ~1,470 employees
 
 Key Fields:
 
@@ -63,7 +63,7 @@ Dashboard design with interactive visuals and filters
 
 🔍 Key Insights:-
 
-Total Employees: 1,480
+Total Employees: 1,470
 
 Total Attrition: 238
 
@@ -94,3 +94,39 @@ Attrition by age group, gender, education, and job role
 Attrition by salary slab and years at company
 
 Interactive filters for deep analysis
+
+
+▶️ How to Run This Project:-
+
+Download the dataset (HR_Analytics.csv)
+
+Open Power BI Desktop
+
+Load the CSV file into Power BI
+
+Open the Power BI dashboard file (.pbix)
+
+Refresh data to view insights
+
+✅ Result and Conclusion:-
+
+The dashboard clearly highlights the main drivers of employee attrition. Younger employees, lower salary slabs, and certain job roles contribute most to attrition. These insights can help HR teams design better retention strategies, salary revisions, and employee engagement programs.
+
+🚀 Future Work:-
+
+Include performance and satisfaction metrics
+
+Predict attrition using Machine Learning models
+
+Department-wise deep dive analysis
+
+Integration with real-time HR systems
+
+👤 Author and Contact:-
+
+Author: Pooja Patil
+
+Role: Aspiring Data Analyst
+
+Email : poojanpatil1304@gmail.com
+

@@ -95,7 +95,8 @@ Attrition by salary slab and years at company
 
 Interactive filters for deep analysis
 
-
+## Dashboard
+![Dashboard Screenshot](https://github.com/pooja4511patil/customer_data_analysis/blob/main/customer%20data%20analysis%20dashboard.PNG)
 
 
 ▶️ How to Run This Project:-
